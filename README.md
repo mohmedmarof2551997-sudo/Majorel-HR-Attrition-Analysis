@@ -100,49 +100,35 @@ Employees on overtime are disproportionately more likely to leave — nearly 30%
 ### Job Satisfaction vs Attrition
 Employees with the lowest job satisfaction score (1) show the highest proportion of attrition relative to their group size.
 
-![Job Satisfaction vs Attrition](images/jobsat.png)
+![Job Satisfaction vs Attrition](jobsat.png)
 
 ---
 
 ### Average Monthly Income by Attrition
 A ~$2,046 income gap exists between employees who stay ($6,833) and those who leave ($4,787).
 
-![Monthly Income by Attrition](images/income.png)
+![Monthly Income by Attrition](income.png)
 
 ---
 
 ### Attrition by Department
 R&D has the highest absolute attrition count (133), while Sales has a disproportionately high attrition rate (92 out of 446 = ~20.6%).
 
-![Attrition by Department](images/dept.png)
+![Attrition by Department](dept.png)
 
 ---
 
 ### Correlation Matrix — Factors Influencing Performance
 Years at company and total working years show the strongest inter-correlation (0.63), while performance rating shows weak correlation with most behavioral factors individually.
 
-![Correlation Matrix – Performance Factors](images/perf_heatmap.png)
-
----
-
-### Correlation Matrix — Factors Affecting Monthly Income
-Job level (r=0.95) and total working years (r=0.77) are the dominant salary predictors — experience and seniority structure compensation far more than education alone.
-
-![Correlation Matrix – Salary Factors](images/salary_heatmap.png)
-
----
-
-### Experience vs Monthly Income by Job Level
-A clear stratification by job level — senior employees (Level 4–5) earn significantly more regardless of tenure length, confirming that promotion structure drives compensation more than years served.
-
-![Experience vs Monthly Income](images/experience.png)
+![Correlation Matrix – Performance Factors](perf_heatmap.png)
 
 ---
 
 ### Education Level vs Monthly Salary
 Higher education levels correlate with incrementally higher salaries, with the largest jump at Level 5 (advanced degree), though the effect is moderate compared to job level.
 
-![Education Level vs Salary](images/education.png)
+![Education Level vs Salary](education.png)
 
 ---
 
