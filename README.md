@@ -242,20 +242,17 @@ Raw Data (1,470 rows × 35 cols)
 ## 📁 Project Structure
 
 ```
-majorel-hr-analysis/
+Majorel-HR-Attrition-Analysis/
 │
-├── 📓 Majorel_HR_Attrition_Analysis.ipynb   ← Main analysis notebook
-├── 📄 README.md                              ← This file
-├── 📊 Majorel.csv                            ← Source dataset
-│
-└── 📁 images/
-    ├── overtime.png          ← Overtime vs Attrition
-    ├── jobsat.png            ← Job Satisfaction vs Attrition
-    ├── income.png            ← Avg Monthly Income by Attrition
-    ├── dept.png              ← Attrition by Department
-    ├── perf_heatmap.png      ← Correlation Matrix (Performance Factors)
-    └── education.png         ← Education Level vs Monthly Salary
-```
+├── 📓 Majorel_HR_Attrition_Analysis.ipynb
+├── 📄 README.md
+├── 📊 Majorel.csv
+├── overtime.png
+├── jobsat.png
+├── income.png
+├── dept.png
+├── perf_heatmap.png
+└── education.png
 
 ---
 
