@@ -118,17 +118,19 @@ R&D has the highest absolute attrition count (133), while Sales has a disproport
 
 ---
 
-### Correlation Matrix — Factors Influencing Performance
-Years at company and total working years show the strongest inter-correlation (0.63), while performance rating shows weak correlation with most behavioral factors individually.
-
-![Correlation Matrix – Performance Factors](perf_heatmap.png)
-
----
-
 ### Education Level vs Monthly Salary
 Higher education levels correlate with incrementally higher salaries, with the largest jump at Level 5 (advanced degree), though the effect is moderate compared to job level.
 
 ![Education Level vs Salary](education.png)
+
+
+
+---
+
+### Correlation Matrix — Factors Influencing Performance
+Years at company and total working years show the strongest inter-correlation (0.63), while performance rating shows weak correlation with most behavioral factors individually.
+
+![Correlation Matrix – Performance Factors](perf_heatmap.png)
 
 ---
 
