@@ -93,7 +93,7 @@ primary determinants of monthly income — reinforcing the value of transparent 
 ### Overtime vs Attrition
 Employees on overtime are disproportionately more likely to leave — nearly 30% attrition rate vs ~11% for non-overtime employees.
 
-![Overtime vs Attrition](images/overtime.png)
+![Overtime vs Attrition](overtime.png)
 
 ---
 
