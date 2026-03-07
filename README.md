@@ -9,6 +9,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge)
+![SQL](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 > *"Attrition is rarely sudden. It is the cumulative result of unaddressed signals — in workload, compensation equity, development opportunities, and workplace satisfaction."*
 
